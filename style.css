@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#titlnav{
+    background-color: #0e2a8e;
+}
+
+.navbar{
+    background-color: #006aad;
+    
+}
+
+.col-md-3 img:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px #0e2a8e;
+}
+
+.col-md-6 img:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px #0e2a8e;
+}
+
+footer{
+    background-color: #018A9C;
+}
+
+i:hover{
+    transform: scale(1.1);
+
+}
+
+/* a img{
+    height: 85px;
+    width: 120px;
+} */
+
+
+
+
+
+
